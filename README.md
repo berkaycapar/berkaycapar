@@ -1,8 +1,10 @@
 ### Hi there 👋
+### <img align="right" src="https://github-readme-stats.vercel.app/api?username=berkaycapar&show_icons=true&line_height=30&theme=highcontrast" alt="berkaycapar github stats" /></a>
 
 ## Hello World! 
 
 <img src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
+
 
 ### about
 
