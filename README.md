@@ -1,5 +1,5 @@
 ### Hello World!  
-<img align = "right" src="https://media.giphy.com/media/X5TVGmA2mpfmo/giphy.gif" width="90px"></h2>
+<img align = "left" src="https://media.giphy.com/media/1Rj3Q1yvQDFU74otiA/giphy.gif" width="180px"></h2>
 
 ### about
 
@@ -11,33 +11,28 @@ School is finished; but I am a computer engineering student who has not graduate
 [![Gmail Badge](https://img.shields.io/badge/-berkaycapar@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:berkaycapar@gmail.com)](mailto:berkaycapar@gmail.com)
 
 
+
 **👨🏻‍💻 Currently working on:** 
 
-
 <code><a href="https://www.python.org/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></a></code>
+<code><a href="https://dart.dev/" target="_blank"><img height="50" src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 
-<!--
-dart
--->
+**⛰ Looking forward to learn:** 
 
+<code><a href="blockchain" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></a></code>
 
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats from anuraghazra](https://github.com/anuraghazra/github-readme-stats)*
 
-<a>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycapar&theme=highcontrast&hide_langs_below=0" />
-</a>
-<a>
+<a href="https://github-readme-stats.vercel.app/api?username=berkaycapar&show_icons=true&line_height=30&theme=highcontrast">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=berkaycapar&show_icons=true&line_height=30&theme=highcontrast" alt="berkaycapar github stats" /></a>
 </a>
-
-<a>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycapar&theme=highcontrast&hide_langs_below=0">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=berkaycapar&theme=highcontrast&hide_langs_below=0" />
+</a>
+<a href = "github.com/berkaycapar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berkaycapar&repo=Python-Programlama-Aktiviteleri&theme=highcontrast" />
 </a>    
-<a>
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+<a href = "github.com/berkaycapar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=berkaycapar&repo=selenium-instagram&theme=highcontrast" />
-</a>
