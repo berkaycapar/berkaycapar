@@ -18,6 +18,7 @@ School is finished; but I am a computer engineering student who has not graduate
 <code><a href="https://dart.dev/" target="_blank"><img height="50" src="https://dart.dev/assets/shared/dart-logo-for-shares.png?2"></a></code>
 <code><a href="https://flutter.dev/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-ar21.svg"></a></code>
 <code><a href="https://firebase.google.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></a></code>
+<code><a href="https://www.oracle.com/java/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></a></code>
 
 **⛰ Looking forward to learn:** 
 
