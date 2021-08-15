@@ -1,5 +1,5 @@
 ### Hello World!  
-<! --
+<!--
 <img align = "left" src="https://media.giphy.com/media/i4MAH84pqe2m2aVojc/giphy.gif" width="180px"></h2>
 -->
 
